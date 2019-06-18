@@ -45,13 +45,13 @@ Tech-savvy people can always find a way to bypass censorship and maintain privac
 
 ## Mission
 1M5 is at its core a mission to ensure free speech, expression, association, and assembly. What's our core beliefs that drive us?
-    • EVERYONE, including criminals and unethical people, have a natural right to Freedom of Speech, Expression, Association, and Assembly
-    • All relationships must be voluntary
-    • Privacy is the bedrock of freedom - we should be able to communicate as we please privately - anonymity as a base
-    • Transparency in code/governance
-    • We own our data and should be the ones that profit from it
-    • Self-sovereign identity – people must establish and maintain their own identities, not by 3rd parties
-    • Self-sovereign money – people must be their own bank indebted to no one with the keys to their money
+    - EVERYONE, including criminals and unethical people, have a natural right to Freedom of Speech, Expression, Association, and Assembly
+    - All relationships must be voluntary
+    - Privacy is the bedrock of freedom - we should be able to communicate as we please privately - anonymity as a base
+    - Transparency in code/governance
+    - We own our data and should be the ones that profit from it
+    - Self-sovereign identity – people must establish and maintain their own identities, not by 3rd parties
+    - Self-sovereign money – people must be their own bank indebted to no one with the keys to their money
 
 ## Objectives
 What do we try to achieve? Prioritized...
