@@ -45,6 +45,7 @@ Tech-savvy people can always find a way to bypass censorship and maintain privac
 
 ## Mission
 1M5 is at its core a mission to ensure free speech, expression, association, and assembly. What's our core beliefs that drive us?
+    
     - EVERYONE, including criminals and unethical people, have a natural right to Freedom of Speech, Expression, Association, and Assembly
     - All relationships must be voluntary
     - Privacy is the bedrock of freedom - we should be able to communicate as we please privately - anonymity as a base
@@ -55,6 +56,7 @@ Tech-savvy people can always find a way to bypass censorship and maintain privac
 
 ## Objectives
 What do we try to achieve? Prioritized...
+    
     1. Support sharing of and access to information without being censored.
     2. Support sharing of and access to information without fear of being persecuted.
     3. Support person-to-person/peer-to-peer (P2P) communication without the need to depend on servers nor the internet - The People’s Direct Network - cut the cord to ISPs for good.
