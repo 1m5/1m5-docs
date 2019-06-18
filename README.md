@@ -1,6 +1,9 @@
 # 1M5
-An intelligent anonymous communications framework with popular general decentralized services and easy to use APIs
-for embedding.
+1M5’s mission is to protect freedom of speech, expression, association, and assembly over electronic communications for all beings by ethical sustainable means.
+
+Invisible Matrix Service (1M5 using leet) is the first decentralized services platform with intelligent routing between anonymity networks to fight censorship. This is required as a base level for electronic communications to ensure freedom of speech, expression, association, and assembly using this medium. 
+Censorship resistance is accomplished by currently using Tor and I2P and in the future to include 1DN (a direct wireless ad-hoc network), Radio, and Satellite as well as other future anonymity networks. When a user’s device gets blocked on one network, other networks are used to route around the block until another user’s device can make the request.
+To ensure 1M5 doesn’t get shutdown, it is not registered in any jurisdiction and thus is only a shared global mission between those that wish to support freedom of speech, expression, association, and assembly among all beings. Aligning with and following any laws of a particular jurisdiction would create a leverage over the mission ending its ability to sustain it. A call for operating the mission with common ethical principles such as the non-aggression principle and voluntaryism (voluntary relationships) is key. Working with any entity known for aggression, especially of the systemic sort, is forbidden by the community as it compromises our ethics.
 
 ## Authors / Developers
 - [ObjectOrange](https://github.com/objectorange) - objectorange@1m5.i2p | objectorange@1m5.io
