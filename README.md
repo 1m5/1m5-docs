@@ -236,22 +236,22 @@ Minimalist DoT headless devices on open hardware and software with no closed or 
 ## 6 Integrations
 The following outlines various ways that 1M5 can be integrated.
 
-**Chat**
+**Chat:**:
 1M5 would use I2P to route messages between messaging apps switching to 1DN (radio & LiFi) when internet access is blocked.
 
-**Browsing**
+**Browsing:**
 1M5 would work to ensure end-users can browse any publicly available web site globally regardless of block attempts. All .onion and .i2p sites would automatically work without configuration. Tor entry node blocks (e.g. China) would get routed around using I2P/1DN.
 
-**Email**
+**Email:**
 1M5 would initially use I2P's email system using public keys as destinations with optional aliases. Future 1M5 work would result in the 1M5 network having a decentralized email system to ensure email would work regardless of internet access, which is required by I2P.
 
-**Social**
+**Social:**
 IM5 would enhance messaging functionality to include a reputation system.
 
-**Office Suite**
+**Office Suite:**
 1M5 would provide google-docs like office sharing workspace with censorship-resistant access and decentralized content distribution (e.g. Inkrypt [18]).
 
-**OS**
+**OS:**
 1M5 would be integrated directly in the operating system. All communications can take advantage of the decentralized censorship-resistant communications. Would likely require rewriting 1M5 in C++/Rust/etc away from Java.
 
 ## 7 Legal
