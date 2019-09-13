@@ -236,7 +236,7 @@ Minimalist DoT headless devices on open hardware and software with no closed or 
 ## 6 Integrations
 The following outlines various ways that 1M5 can be integrated.
 
-**Chat:**:
+**Chat:**
 1M5 would use I2P to route messages between messaging apps switching to 1DN (radio & LiFi) when internet access is blocked.
 
 **Browsing:**
