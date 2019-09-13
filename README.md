@@ -196,7 +196,6 @@ Minimalist DoT headless devices on open hardware and software with no closed or 
 - Hardware will be based on Raspberry Pi Zero W.
 
 ## 4.5 DoT Drone (Planning)
-Pre-configured bundling of Tor Browser with 1M5 Proxy for ease of use.
 - Places the DoT device within a mobile platform.
 - Multiple drones will be available for specific use cases.
 
@@ -234,21 +233,42 @@ Pre-configured bundling of Tor Browser with 1M5 Proxy for ease of use.
 	- 0.9.8 – LiFi: Drone Host
 	- 1.0.0 – DoT: DoT Drone
 
-## 6 Legal
+## 6 Integrations
+The following outlines various ways that 1M5 can be integrated.
+
+**Chat**
+1M5 would use I2P to route messages between messaging apps switching to 1DN (radio & LiFi) when internet access is blocked.
+
+**Browsing**
+1M5 would work to ensure end-users can browse any publicly available web site globally regardless of block attempts. All .onion and .i2p sites would automatically work without configuration. Tor entry node blocks (e.g. China) would get routed around using I2P/1DN.
+
+**Email**
+1M5 would initially use I2P's email system using public keys as destinations with optional aliases. Future 1M5 work would result in the 1M5 network having a decentralized email system to ensure email would work regardless of internet access, which is required by I2P.
+
+**Social**
+IM5 would enhance messaging functionality to include a reputation system.
+
+**Office Suite**
+1M5 would provide google-docs like office sharing workspace with censorship-resistant access and decentralized content distribution (e.g. Inkrypt [18]).
+
+**OS**
+1M5 would be integrated directly in the operating system. All communications can take advantage of the decentralized censorship-resistant communications. Would likely require rewriting 1M5 in C++/Rust/etc away from Java.
+
+## 7 Legal
 
 **General**
 This effort is a mission not confined to any jurisdiction as it would risk alienating individuals and providing a vector for attack. This doesn’t mean that others will not attempt to exercise control over it, that is to be expected as free speech is given more lip service world-wide than actual support. No one person speaks for the natural right to free speech, expression, association, and assembly and this mission seeks to uphold that natural right. 
 
 **Risks**
-Decentralized autonomous missions like 1M5 are new efforts not associated with any one state and therefore have none of the protections or support of state-registered organizations. World-wide jurisdictions may establish laws in an attempt to govern efforts like 1M5 or others in the future. 
+Decentralized autonomous missions like 1M5 are new efforts not associated with any one state and therefore have none of the protections or support of state-registered organizations. Jurisdictions worldwide may establish laws in an attempt to govern efforts like 1M5 or others in the future. 
 
 **Representation and Warranties**
 Security is never a guarantee. It is a constant effort for us all to prevent theft by others. Therefore, no warranties can be offered. Know the limitations of the system and use at your own risk.
 
 **Governing Law and Arbitration**
-This is not an effort specific to any jurisdiction. There will be no internal disputes as this is not an organization of any kind. confined.
+1M5 is a global mission not an effort specific to any jurisdiction. There will be no internal disputes as this is not an organization of any kind. 
 
-## 7 Bibliography
+## 8 Bibliography
 
 - [1] Li-Fi. https://en.wikipedia.org/wiki/Li-Fi, 2019.
 - [2] Non-aggression principle. https://en.wikipedia.org/wiki/Non-aggression_principle, 2019.
