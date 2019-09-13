@@ -203,36 +203,36 @@ Pre-configured bundling of Tor Browser with 1M5 Proxy for ease of use.
 ## 5 Development Roadmap
 1M5’s development is solely dependent on the support received via donations and contributions. These plans may change due the nature of technological development and advancements. The goal will remain to support the best technologies available.
 
-- ~~0.6.0 – Infrastructure~~
-- ~~0.5.0 – Core: Framework (April 2018)~~
-- ~~0.5.2 – I2P: Embedded Router (July 2018)~~
-- ~~0.5.4 – DID: OpenPGP (Oct 2018)~~
-- ~~0.6.0 – KeyRing: Encrypt/Decrypt (Jan 2019)~~
-- ~~0.7.0 - Censorship Resistance~~
-- ~~0.6.1 – Tor: External Router Integration (June 2019)~~
-- 0.6.2 – Sensors: Uncensored Routing (Testing)
-- 0.6.4 – Sensors: Peer Graph (Integration)
-- 0.6.6 – KeyRing, InfoVault: External Drives
-- 0.6.8 – Proxy: Uncensored Internet (Development)
-- 0.7.0 – Browser: Uncensored Browsing
-- 0.8.0 – Sustainability 
-- 0.7.2 – Komodo: Integration
-- 0.7.4 – Prana: Monetization
-- 0.7.6 – Aten: Monetization
-- 0.7.8 – DID, Ring: Reputation
-- 0.8.0 – Social: Uncensored Ring-Based Messenger
-- 0.9.0 – Outernet
-- 0.8.2 – Radio: WiFi Direct
-- 0.8.4 – Radio: Full Spectrum
-- 0.8.6 – Radio: Blockstream Satellite
-- 0.8.8 – Radio: Electronic Counter Measures (ECM)
-- 0.9.0 – Phone: Secure Mesh Phone
-- 1.0.0 – Advanced Decentralized Mesh
-- 0.9.2 – LiFi: Static Host
-- 0.9.4 – DoT: DoT Device
-- 0.9.6 – LiFi: Mobile Host
-- 0.9.8 – LiFi: Drone Host
-- 1.0.0 – DoT: DoT Drone
+- **0.6.0 – Infrastructure**
+    - ~~0.5.0 – Core: Framework (April 2018)~~
+    - ~~0.5.2 – I2P: Embedded Router (July 2018)~~
+    - ~~0.5.4 – DID: OpenPGP (Oct 2018)~~
+    - ~~0.6.0 – KeyRing: Encrypt/Decrypt (Jan 2019)~~
+- **0.7.0 - Censorship Resistance**
+	- ~~0.6.1 – Tor: External Router Integration (June 2019)~~
+	- 0.6.2 – Sensors: Uncensored Routing (Testing)
+	- 0.6.4 – Sensors: Peer Graph (Integration)
+	- 0.6.6 – KeyRing, InfoVault: External Drives
+	- 0.6.8 – Proxy: Uncensored Internet (Development)
+	- 0.7.0 – Browser: Uncensored Browsing
+- **0.8.0 – Sustainability** 
+	- 0.7.2 – Komodo: Integration
+	- 0.7.4 – Prana: Monetization
+	- 0.7.6 – Aten: Monetization
+	- 0.7.8 – DID, Ring: Reputation
+	- 0.8.0 – Social: Uncensored Ring-Based Messenger
+- **0.9.0 – Outernet**
+	- 0.8.2 – Radio: WiFi Direct
+	- 0.8.4 – Radio: Full Spectrum
+	- 0.8.6 – Radio: Blockstream Satellite
+	- 0.8.8 – Radio: Electronic Counter Measures (ECM)
+	- 0.9.0 – Phone: Secure Mesh Phone
+- **1.0.0 – Advanced Decentralized Mesh**
+	- 0.9.2 – LiFi: Static Host
+	- 0.9.4 – DoT: DoT Device
+	- 0.9.6 – LiFi: Mobile Host
+	- 0.9.8 – LiFi: Drone Host
+	- 1.0.0 – DoT: DoT Drone
 
 ## 6 Legal
 
